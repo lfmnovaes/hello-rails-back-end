@@ -4,6 +4,8 @@
 
 > Introductory project for Rails only dealing with the Back-End
 
+[React Front-End Project](https://github.com/lfmnovaes/hello-react-front-end/)
+
 ## Built With
 
 Ruby >= 3.0.0
